@@ -1,0 +1,6 @@
+[
+  { "SubCategoryKey": 1, "CategoryKey": "ID -1", "SubCategory Name": "Extra" },
+  { "SubCategoryKey": 2, "CategoryKey": "ID - 2", "SubCategory Name": "Regular" },
+  { "SubCategoryKey": 3, "CategoryKey": "ID - 1", "SubCategory Name": "Micro" },
+  { "SubCategoryKey": 4, "CategoryKey": "ID - 2", "SubCategory Name": "Super" }
+]
